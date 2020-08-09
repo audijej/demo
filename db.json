@@ -9,7 +9,7 @@
               "last": "Gates"
           },
           "email": "billgates@example.com",
-          "phone": "02-62-35-18-98",
+          "phone": "867-5309",
           "picture": {
               "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bill_Gates_2018.jpg/330px-Bill_Gates_2018.jpg"
           }
@@ -21,7 +21,7 @@
               "last": "Musk"
           },
           "email": "elonmusk@example.com",
-          "phone": "07-82-45-28-08",
+          "phone": "867-5309",
           "picture": {
               "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Elon_Musk_Royal_Society.jpg/330px-Elon_Musk_Royal_Society.jpg"
           }
@@ -33,7 +33,7 @@
             "last": "Reeves"
         },
         "email": "keanureeves@example.com",
-        "phone": "02-62-35-18-98",
+        "phone": "867-5309",
         "picture": {
             "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg/330px-Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg"
         }
@@ -45,7 +45,7 @@
           "last": "Aniston"
       },
       "email": "jenniferaniston@example.com",
-      "phone": "02-62-35-18-98",
+      "phone": "867-5309",
       "picture": {
           "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JenniferAnistonHWoFFeb2012.jpg/330px-JenniferAnistonHWoFFeb2012.jpg"
       }
@@ -57,7 +57,7 @@
         "last": "Graham"
     },
     "email": "drake@example.com",
-    "phone": "02-62-35-18-98",
+    "phone": "867-5309",
     "picture": {
         "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Drake_at_The_Carter_Effect_2017_%2836818935200%29_%28cropped%29.jpg/330px-Drake_at_The_Carter_Effect_2017_%2836818935200%29_%28cropped%29.jpg"
     }
@@ -69,7 +69,7 @@
       "last": "Malone"
   },
   "email": "postmalone@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Post_Malone_at_the_2019_American_Music_Awards.png/330px-Post_Malone_at_the_2019_American_Music_Awards.png"
   }
@@ -81,7 +81,7 @@
       "last": "Carell"
   },
   "email": "stevecarell@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steve_Carell_November_2014.jpg/330px-Steve_Carell_November_2014.jpg"
   }
@@ -93,7 +93,7 @@
       "last": "Elizabeth"
   },
   "email": "queenelizabeth@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Queen_Elizabeth_II_in_March_2015.jpg/330px-Queen_Elizabeth_II_in_March_2015.jpg"
   }
@@ -105,7 +105,7 @@
       "last": "Dogg"
   },
   "email": "snoopdogg@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snoop_Dogg_2019_by_Glenn_Francis.jpg/330px-Snoop_Dogg_2019_by_Glenn_Francis.jpg"
   }
@@ -117,7 +117,7 @@
       "last": "Vader"
   },
   "email": "darthvader@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/en/7/76/Darth_Vader.jpg"
   }
@@ -129,7 +129,7 @@
       "last": "West"
   },
   "email": "kanyewest@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kanye_West_at_the_2009_Tribeca_Film_Festival-2_%28cropped%29.jpg/330px-Kanye_West_at_the_2009_Tribeca_Film_Festival-2_%28cropped%29.jpg"
   }
@@ -141,7 +141,7 @@
       "last": "Swift"
   },
   "email": "taylorswift@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png/330px-191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png"
   }
@@ -153,7 +153,7 @@
       "last": "Beiber"
   },
   "email": "justinbeiber@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/330px-Justin_Bieber_in_2015.jpg"
   }
@@ -165,7 +165,7 @@
       "last": "Knowles"
   },
   "email": "beyonceknowles@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png/330px-Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png"
   }
@@ -177,7 +177,7 @@
       "last": "James"
   },
   "email": "lebronjames@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lebron_wizards_2017_%28cropped%29.jpg/375px-Lebron_wizards_2017_%28cropped%29.jpg"
   }
@@ -189,7 +189,7 @@
       "last": "Brady"
   },
   "email": "tombrady@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tom_Brady_2017.JPG/330px-Tom_Brady_2017.JPG"
   }
@@ -201,7 +201,7 @@
       "last": "Johnson"
   },
   "email": "therock@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dwayne_Johnson_2%2C_2013.jpg/330px-Dwayne_Johnson_2%2C_2013.jpg"
   }
@@ -213,7 +213,7 @@
       "last": "Cruise"
   },
   "email": "tomcruise@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tom_Cruise_by_Gage_Skidmore_2.jpg/330px-Tom_Cruise_by_Gage_Skidmore_2.jpg"
   }
@@ -225,7 +225,7 @@
       "last": "DiCaprio"
   },
   "email": "leodeicaprio@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leonardo_Dicaprio_Cannes_2019.jpg/330px-Leonardo_Dicaprio_Cannes_2019.jpg"
   }
@@ -237,7 +237,7 @@
       "last": "Smith"
   },
   "email": "samsmith@example.com",
-  "phone": "02-62-35-18-98",
+  "phone": "867-5309",
   "picture": {
       "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sam_Smith_Lollapalooza_2015-9_%28cropped%29.jpg/330px-Sam_Smith_Lollapalooza_2015-9_%28cropped%29.jpg"
   }
