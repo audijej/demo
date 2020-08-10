@@ -11,7 +11,7 @@
           "email": "billgates@example.com",
           "phone": "867-5309",
           "picture": {
-              "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bill_Gates_2018.jpg/150px150px-Bill_Gates_2018.jpg"
+              "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bill_Gates_2018.jpg/150-Bill_Gates_2018.jpg"
           }
       },
       {
@@ -23,7 +23,7 @@
           "email": "elonmusk@example.com",
           "phone": "867-5309",
           "picture": {
-              "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Elon_Musk_Royal_Society.jpg/150px150px-Elon_Musk_Royal_Society.jpg"
+              "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Elon_Musk_Royal_Society.jpg/150-Elon_Musk_Royal_Society.jpg"
           }
       },
       {
@@ -35,7 +35,7 @@
         "email": "keanureeves@example.com",
         "phone": "867-5309",
         "picture": {
-            "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg/150px150px-Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg"
+            "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg/150-Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%28cropped%29.jpg"
         }
     },
     {
@@ -47,7 +47,7 @@
       "email": "jenniferaniston@example.com",
       "phone": "867-5309",
       "picture": {
-          "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JenniferAnistonHWoFFeb2012.jpg/150px150px-JenniferAnistonHWoFFeb2012.jpg"
+          "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JenniferAnistonHWoFFeb2012.jpg/150-JenniferAnistonHWoFFeb2012.jpg"
       }
   },
   {
@@ -59,7 +59,7 @@
     "email": "drake@example.com",
     "phone": "867-5309",
     "picture": {
-        "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Drake_at_The_Carter_Effect_2017_%2836818935200%29_%28cropped%29.jpg/150px150px-Drake_at_The_Carter_Effect_2017_%2836818935200%29_%28cropped%29.jpg"
+        "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Drake_at_The_Carter_Effect_2017_%2836818935200%29_%28cropped%29.jpg/150-Drake_at_The_Carter_Effect_2017_%2836818935200%29_%28cropped%29.jpg"
     }
 },
 {
@@ -71,7 +71,7 @@
   "email": "postmalone@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Post_Malone_at_the_2019_American_Music_Awards.png/150px150px-Post_Malone_at_the_2019_American_Music_Awards.png"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Post_Malone_at_the_2019_American_Music_Awards.png/150-Post_Malone_at_the_2019_American_Music_Awards.png"
   }
 },
 {
@@ -83,7 +83,7 @@
   "email": "stevecarell@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steve_Carell_November_2014.jpg/150px150px-Steve_Carell_November_2014.jpg"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steve_Carell_November_2014.jpg/150-Steve_Carell_November_2014.jpg"
   }
 },
 {
@@ -95,7 +95,7 @@
   "email": "queenelizabeth@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Queen_Elizabeth_II_in_March_2015.jpg/150px150px-Queen_Elizabeth_II_in_March_2015.jpg"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Queen_Elizabeth_II_in_March_2015.jpg/150-Queen_Elizabeth_II_in_March_2015.jpg"
   }
 },
 {
@@ -107,7 +107,7 @@
   "email": "snoopdogg@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snoop_Dogg_2019_by_Glenn_Francis.jpg/150px150px-Snoop_Dogg_2019_by_Glenn_Francis.jpg"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snoop_Dogg_2019_by_Glenn_Francis.jpg/150-Snoop_Dogg_2019_by_Glenn_Francis.jpg"
   }
 },
 {
@@ -131,7 +131,7 @@
   "email": "kanyewest@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kanye_West_at_the_2009_Tribeca_Film_Festival-2_%28cropped%29.jpg/150px150px-Kanye_West_at_the_2009_Tribeca_Film_Festival-2_%28cropped%29.jpg"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kanye_West_at_the_2009_Tribeca_Film_Festival-2_%28cropped%29.jpg/150-Kanye_West_at_the_2009_Tribeca_Film_Festival-2_%28cropped%29.jpg"
   }
 },
 {
@@ -143,7 +143,7 @@
   "email": "taylorswift@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png/150px150px-191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png/150-191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png"
   }
 },
 {
@@ -155,7 +155,7 @@
   "email": "justinbeiber@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/150px150px-Justin_Bieber_in_2015.jpg"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/150-Justin_Bieber_in_2015.jpg"
   }
 },
 {
@@ -167,7 +167,7 @@
   "email": "beyonceknowles@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png/150px150px-Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png/150-Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png"
   }
 },
 {
@@ -179,7 +179,7 @@
   "email": "lebronjames@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lebron_wizards_2017_%28cropped%29.jpg/150px150px-Lebron_wizards_2017_%28cropped%29.jpg"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lebron_wizards_2017_%28cropped%29.jpg/150-Lebron_wizards_2017_%28cropped%29.jpg"
   }
 },
 {
@@ -191,7 +191,7 @@
   "email": "tombrady@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tom_Brady_2017.JPG/150px150px-Tom_Brady_2017.JPG"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tom_Brady_2017.JPG/150-Tom_Brady_2017.JPG"
   }
 },
 {
@@ -203,7 +203,7 @@
   "email": "therock@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dwayne_Johnson_2%2C_2013.jpg/150px150px-Dwayne_Johnson_2%2C_2013.jpg"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dwayne_Johnson_2%2C_2013.jpg/150-Dwayne_Johnson_2%2C_2013.jpg"
   }
 },
 {
@@ -215,7 +215,7 @@
   "email": "tomcruise@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tom_Cruise_by_Gage_Skidmore_2.jpg/150px150px-Tom_Cruise_by_Gage_Skidmore_2.jpg"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tom_Cruise_by_Gage_Skidmore_2.jpg/150-Tom_Cruise_by_Gage_Skidmore_2.jpg"
   }
 },
 {
@@ -227,7 +227,7 @@
   "email": "leodeicaprio@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leonardo_Dicaprio_Cannes_2019.jpg/150px150px-Leonardo_Dicaprio_Cannes_2019.jpg"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leonardo_Dicaprio_Cannes_2019.jpg/150-Leonardo_Dicaprio_Cannes_2019.jpg"
   }
 },
 {
@@ -239,7 +239,7 @@
   "email": "samsmith@example.com",
   "phone": "867-5309",
   "picture": {
-      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sam_Smith_Lollapalooza_2015-9_%28cropped%29.jpg/150px150px-Sam_Smith_Lollapalooza_2015-9_%28cropped%29.jpg"
+      "medium": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sam_Smith_Lollapalooza_2015-9_%28cropped%29.jpg/150-Sam_Smith_Lollapalooza_2015-9_%28cropped%29.jpg"
   }
 }
   ]
